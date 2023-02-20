@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://legeclodb.github.io/sitemap.xml
